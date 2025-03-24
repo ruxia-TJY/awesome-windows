@@ -34,7 +34,7 @@
 
 ## Contents
 
-* [API 开发](#api-development)
+* [API 开发](#api-开发)
 * [Application Launchers](#application-launchers)
 * [Audio](#audio)
 * [Backup](#backup)
